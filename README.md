@@ -10,3 +10,4 @@ URL: https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13610
 
 The code contains the functions needed to generate the simulation data and to plot the figures.
 To get started, open "MAIN_SCRIPT.m", which calls the sub-functions.
+The code is also available at https://zenodo.org/record/3948054.

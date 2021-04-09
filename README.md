@@ -2,9 +2,9 @@
 
 This is the computer code corresponding to the following publication:
 
-"Microbial physiology governs the oceanic distribution of dissolved organic carbon in a scenario of equal degradability"  
-A. Mentges, C. Deutsch, C. Feenders, S. T. Lennartz, B. Blasius, T. Dittmar  
-Frontiers in Marine Science, Vol. 35 (2), 2020  
+"Effects of site‐selection bias on estimates of biodiversity change"  
+Andrea Mentges, Shane Blowes, Dorothée Hodapp, Helmut Hillebrand, Jon Chase  
+Conservation Biology, Vol. 35 (2), 2020  
 doi: 10.1111/cobi.13610
 URL: https://conbio.onlinelibrary.wiley.com/doi/10.1111/cobi.13610   
 
